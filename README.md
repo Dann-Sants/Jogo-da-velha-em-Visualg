@@ -18,8 +18,9 @@ Implementação completa do clássico Jogo da Velha desenvolvida em Portugol uti
 
 1. Baixe e instale o **Visualg** (ou execute via Wine no Linux).
 2. Clone este repositório ou baixe o arquivo `.alg`:
-   ```bash
- git clone https://github.com/Dann-Sants/Jogo-da-velha-em-Visualg.git
+
+```bash
+git clone https://github.com/Dann-Sants/Jogo-da-velha-em-Visualg.git
 ```
 3. Abra o arquivo `Jogodavelha.alg` no Visualg.
 4. Pressione `F9` para iniciar a execução no console e digite o número da posição desejada (1 a 9).
